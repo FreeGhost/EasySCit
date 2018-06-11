@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>I:\Visual Basic\Windowed\Programs\EasySCit\Setup\Original Files\|D:\Visual Basic\Windowed\Programs\EasySCit\Setup\Original Files\|D:\Visual Basic\Windowed\Programs\MyESS\Setup\Original Files\|D:\Visual Basi\Windowed\Programs\MyESS\Setup\|D:\Microsoft Visual Basic 2010\Windowed\Programs\MyESS\Setup\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
